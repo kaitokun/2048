@@ -317,9 +317,8 @@ hr {
     background-size:100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-     background-image: url("./tile/yuki.jpg");
-    
-
+    background-image: url("./tile/yuki.jpg");
+    background-size:100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
  background-image: url("./tile/kaito.jpg");
@@ -338,11 +337,12 @@ hr {
    }
   .tile.tile-64 .tile-inner {
     background-image: url("./tile/kouki.jpg");
+    background-size:100%;
     color: #f9f6f2;
      }
   .tile.tile-128 .tile-inner {
     background-image: url("./tile/kaito.jpg");
-    
+    background-size:100%;
     color: #f9f6f2;
     
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
